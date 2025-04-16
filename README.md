@@ -144,7 +144,7 @@ Web service in this project focuses on classifying Iris flowers using machine le
 ## Usage  
 
 To use this project, follow these steps:
-1. Clone this repository to your local machine: `git clone https://github.com/m-nanda/End-to-End-ML.git `
+1. Clone this repository to your local machine: `git clone https://github.com/Bijaya1000/ML-Pipeline-to-prevent-data-leakage.git `
 
 2. Go to the project folder in a terminal or command prompt
     ```bash
